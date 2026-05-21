@@ -1,0 +1,15 @@
+streamlit==1.41.0
+langgraph==0.2.60
+langchain==0.3.13
+langchain-community==0.3.13
+langchain-openai==0.2.14
+langsmith==0.2.3
+faiss-cpu==1.9.0
+sentence-transformers==3.3.1
+SQLAlchemy==2.0.36
+bcrypt==4.2.1
+python-dotenv==1.0.1
+requests==2.32.3
+openai==1.58.1
+tiktoken==0.8.0
+langchain-huggingface==0.1.2
